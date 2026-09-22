@@ -1,0 +1,25 @@
+{
+  "name": "Người Que Studio",
+  "short_name": "Người Que",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eceff2",
+  "theme_color": "#2f4b7c",
+  "orientation": "portrait",
+  "description": "Làm video hoạt hình người que 9:16 trên điện thoại",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
